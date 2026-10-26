@@ -1,7 +1,7 @@
 class AgentTheatre < Formula
   desc "Watch your coding agent work - as a film, not a log"
   homepage "https://agenttheatre.dev"
-  url "https://registry.npmjs.org/agent-theatre/-/agent-theatre-1.5.2.tgz"
+  url "https://registry.npmjs.org/agent-theatre/-/agent-theatre-1.5.3.tgz"
   sha256 ""
   license "MIT"
 
